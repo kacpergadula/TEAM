@@ -1,2 +1,2 @@
 # TEAM
-![](images/Przechwytywanie.png)
+![](Przechwytywanie.PNG)
