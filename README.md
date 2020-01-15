@@ -1,1 +1,2 @@
 # TEAM
+![](images/Przechwytywanie.png)
