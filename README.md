@@ -1,2 +1,2 @@
 # TEAM
-![](Przechwytywanie.PNG)
+![](Nowy%20folder/Przechwytywanie.PNG)
